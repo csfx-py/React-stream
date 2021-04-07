@@ -1,11 +1,8 @@
-import React from 'react'
+import React from "react";
+import { Home, Stream } from "./Components/index";
 
 const App = () => {
-  return (
-    <>
-      App
-    </>
-  )
-}
+  return <></>;
+};
 
-export default App
+export default App;
